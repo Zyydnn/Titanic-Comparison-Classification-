@@ -5,7 +5,7 @@ This project explores the application of two popular machine learning methods, R
 The Titanic dataset is a well-known benchmark in data science, containing data on passengers who traveled on the RMS Titanic. This project involves:
 * Data Preprocessing: Handling missing values, feature engineering, and encoding categorical variables.
 * Modeling: Implementing Random Forest and Gradient Boosting models for binary classification (survived/did not survive).
-* Model Comparison: Evaluating and comparing model performance using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC.
+* Model Comparison: Evaluating and comparing model performance using metrics such as accuracy, precision, recall, and F1 score, 
 * Analysis and Conclusion: Analyzing the results to conclude which model provides better predictive accuracy and general insights into feature importance.
 
 # Conclusion
