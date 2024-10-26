@@ -7,3 +7,6 @@ The Titanic dataset is a well-known benchmark in data science, containing data o
 * Modeling: Implementing Random Forest and Gradient Boosting models for binary classification (survived/did not survive).
 * Model Comparison: Evaluating and comparing model performance using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC.
 * Analysis and Conclusion: Analyzing the results to conclude which model provides better predictive accuracy and general insights into feature importance.
+
+# Conclusion
+This project successfully demonstrates the application of Random Forest and Gradient Boosting methods. With the use of visualizations and statistical metrics, the project highlighted key insights into the performance and effectiveness of the models.
