@@ -10,3 +10,11 @@ The Titanic dataset is a well-known benchmark in data science, containing data o
 
 # Conclusion
 This project successfully demonstrates the application of Random Forest and Gradient Boosting methods. With the use of visualizations and statistical metrics, the project highlighted key insights into the performance and effectiveness of the models.
+
+
+
+
+:hash:Dibimbing
+:hash:DigitalSkillFair32
+:hash:DataScience
+
